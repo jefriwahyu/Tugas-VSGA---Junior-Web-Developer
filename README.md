@@ -1,4 +1,4 @@
-# Tugas VSGA - Junior Web Developer
+# Tugas VSGA Digitalent - Junior Web Developer
 
 <ul>
   <li><a href="">Tugas 1</a> - Mengidentifikasi Mekanisme Running atau Eksekusi Source Code</li>
